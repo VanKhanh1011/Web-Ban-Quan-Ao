@@ -1,0 +1,52 @@
+h1 {
+  padding: 20px;
+  text-align: center;
+  font-size: 30px; }
+
+p {
+  padding: 10px 180px;
+  line-height: 30px; }
+
+.pic-1 {
+  padding: 10px 20px; }
+  .pic-1 img {
+    margin-right: 20px; }
+
+.pic-2 {
+  padding: 10px 20px;
+  align-items: right;
+  margin-left: 300px; }
+  .pic-2 img {
+    margin-right: 20px; }
+
+.pic-3 {
+  margin-left: 500px; }
+
+.pic-4 {
+  padding: 10px 20px; }
+  .pic-4 img {
+    margin-right: 20px; }
+
+.pic-5 {
+  padding: 10px 20px;
+  align-items: center; }
+  .pic-5 img {
+    margin-left: 300px; }
+
+.pic-6 {
+  padding: 10px 20px; }
+
+.pic-7 {
+  padding: 10px 20px; }
+  .pic-7 img {
+    margin-left: 200px; }
+
+.pic-8 {
+  padding: 10px 20px; }
+  .pic-8 img {
+    margin-left: 650px; }
+button{
+	margin-left: 300px;
+	background: white;
+	color: red;
+}

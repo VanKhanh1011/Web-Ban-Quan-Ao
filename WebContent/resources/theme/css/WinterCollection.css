@@ -1,0 +1,27 @@
+.change{
+	display: flex;
+ /* justify-content: space-between;  */
+  flex-wrap:wrap;
+    width: 1550px;
+}
+.change .change-1 {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between; 
+  width: 17%;
+  }
+  .change .change-1 .sale1-change img {
+    width: 250px;
+    height: 300px;
+    margin-right: 15px; }
+  .change .change-1 .sale1-change .but {
+    background: white;
+    text-align: center;
+    padding: 10px; }
+    .change .change-1 .sale1-change .but a {
+      color: #5f5c5c; }
+      .change .change-1 .sale1-change .but a:hover {
+      border:none;
+        color: #1fc0c0; }
+    .change .change-1 .sale1-change .but h3 {
+      font-size: 16px;}

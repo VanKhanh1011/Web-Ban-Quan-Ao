@@ -1,0 +1,47 @@
+.total {
+  display: flex;
+  justify-content: space-between; }
+  .total .best-news {
+    width: 860px;
+    padding: 20px;
+    height: 450px;
+    border: 1px solid gray;
+    margin: 20px;
+    border-radius: 8px; }
+    .total .best-news .chung {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 20px; }
+      .total .best-news .chung img {
+        width: 80px;
+        height: 80px; }
+      .total .best-news .chung .noidung {
+        margin-left: 20px;
+        width: 300px; }
+        .total .best-news .chung .noidung a {
+          font-size: 14px;
+          color: black; }
+          .total .best-news .chung .noidung a:hover {
+            color: #2f6ece; }
+  .total .news {
+    margin: 20px; }
+    .total .news .chungg {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px; }
+      .total .news .chungg img {
+        width: 300px;
+        height: 200px;
+        margin-right: 20px; }
+      .total .news .chungg .noidung {
+        width: 500px; }
+        .total .news .chungg .noidung a {
+          margin-bottom: 10px;
+          color: black; }
+          .total .news .chungg .noidung a:hover {
+            color: #4795d4; }
+        .total .news .chungg .noidung h6 {
+          margin-top: 10px;
+          margin-bottom: 10px; }
+        .total .news .chungg .noidung p {
+          color: #8b8a8a; }

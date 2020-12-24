@@ -1,0 +1,35 @@
+.divide {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px; }
+  .divide .list {
+    border: 1px solid gray;
+    padding: 20px 0px 20px 20px;
+    margin-top: 65px;
+    height: 230px;
+    text-align: left;
+    border-radius: 7px; }
+    .divide .list h3 {
+      color: black;
+      font-size: 24px; }
+    .divide .list ul {
+      width: 200px; }
+      .divide .list ul li {
+        margin-top: 10px; }
+        .divide .list ul li a {
+          text-align: left;
+          color: #1c81d3; }
+  .divide .mar li h4 {
+    margin-top: 20px;
+    margin-bottom: 10px; }
+  .divide .mar li p {
+    margin-bottom: 20px; }
+  .divide .marr h3 {
+    margin-top: 10px; }
+  .divide .marr p {
+    margin-top: 10px; }
+  .divide .store {
+    margin-top: 60px; }
+    .divide .store h2 {
+      font-size: 30px;
+      margin-bottom: 20px; }

@@ -1,0 +1,21 @@
+.divide {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px; }
+  .divide .list {
+    border: 1px solid gray;
+    padding: 20px 0px 20px 20px;
+    margin-top: 65px;
+    height: 230px;
+    text-align: left;
+    border-radius: 7px; }
+    .divide .list h3 {
+      color: black;
+      font-size: 24px; }
+    .divide .list ul {
+      width: 200px; }
+      .divide .list ul li {
+        margin-top: 10px; }
+        .divide .list ul li a {
+          text-align: left;
+          color: #1c81d3; }
